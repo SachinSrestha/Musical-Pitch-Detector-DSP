@@ -2,11 +2,11 @@
 
 
 # COMP 407 — Digital Signal Processing Mini Project
-# CE - 4th year/ 1st semester
+CE - 4th year/ 1st semester
 
 # Submitted By:
-# Sachin Shrestha , Sushma Acharya
-# Roll No - 3 , 59
+Sachin Shrestha , Sushma Acharya
+Roll No - 3 , 59
 
 A real-time, professional-grade musical pitch detection application written in Python. It captures live audio from your microphone and estimates the fundamental frequency using advanced Digital Signal Processing (DSP) techniques like Autocorrelation and Fast Fourier Transforms (FFT).
 
