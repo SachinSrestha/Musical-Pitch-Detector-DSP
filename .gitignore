@@ -1,0 +1,18 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Generated test artifacts
+*.wav
+*.png
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
