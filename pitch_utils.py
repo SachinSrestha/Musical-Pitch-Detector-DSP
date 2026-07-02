@@ -2,7 +2,7 @@ import math
 import numpy as np
 from scipy.signal import find_peaks
 
-# ─── Audio parameters ──────────────────────────────────────────────────────────
+# Audio parameters
 Fs = 44100          # Sampling rate (Hz) — standard CD quality
 N = 2048            # Frame size (samples) — gives ~46ms frames, ~21 Hz freq resolution
 HOP = 512           # Hop size (samples) — 75% overlap between frames
